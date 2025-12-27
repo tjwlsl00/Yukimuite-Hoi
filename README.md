@@ -1,7 +1,10 @@
 ゲーム再生URL
 --
+[![영상 타이틀](https://img.youtube.com/vi/여기에_ID_입력/maxresdefault.jpg)](https://www.youtube.com/watch?v=여기에_ID_입력)
 
+*画像をクリックするとリンクに接続されます。<br>
 
+*エラーが生じた場合、以下のリンク先でお願い致します。<br>
 
 
 タイトル：ゆきむいて、ホイ！　／　開発期間：25年12月17日 ～ 
