@@ -23,7 +23,7 @@
 
 ゲーム再生URL
 --
-[![ゆきむいて、ホイ！](https://img.youtube.com/vi/1XaAdYmfsRk/0.jpg)](https://www.youtube.com/watch?v=1XaAdYmfsRk)
+[![ゆきむいて、ホイ！](https://img.youtube.com/vi/1XaAdYmfsRk/maxresdefault.jpg)](https://www.youtube.com/watch?v=1XaAdYmfsRk)
 
 *画像をクリックするとリンクに繋がります。<br>
 
