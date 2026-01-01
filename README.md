@@ -23,8 +23,9 @@
 
 ゲーム再生URL
 --
-[![ゆきむいて、ホイ！](https://img.youtube.com/vi/여기에_ID_입력/maxresdefault.jpg)](https://www.youtube.com/watch?v=여기에_ID_입력)
+[![ゆきむいて、ホイ！](https://img.youtube.com/vi/1XaAdYmfsRk/maxresdefault.jpg)](https://www.youtube.com/watch?v=1XaAdYmfsRk)
 
 *画像をクリックするとリンクに繋がります。<br>
 
 *エラーが生じた場合、以下のリンク先でお願い致します。<br>
+https://youtu.be/1XaAdYmfsRk
